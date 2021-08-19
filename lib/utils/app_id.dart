@@ -1,2 +1,2 @@
 const APP_ID = '';
-const token = null;
+const token = '';
